@@ -43,3 +43,58 @@ header h1{
     margin-top: 5%;
     text-shadow: 3px 3px #00000061;
 }
+
+/*article*/
+article{
+    width: 60%;
+    height: 800px;
+    display: block;
+    float: left;
+}
+
+h2{
+color: #88003f;
+text-shadow: 2px 2px #5e5e5e91;
+margin-left: 35%;
+margin-top: 2%;
+
+}
+
+.box{
+    width: 500px;
+    height: 300px;
+    display: block;
+    float: left;
+    background-color: #800000;
+    margin-left: 20%;
+    border-radius: 15%;
+    box-shadow: 4px 4px #8b0e0e63;
+    margin-top: 2%;
+    border: 4px #88003f;
+    border-style: solid;
+}
+
+ul{
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  color: var(--cinza);  
+  background-color: transparent;
+  padding: 0%;
+  margin-left: 30px;
+  
+  
+}
+
+li{
+    background-color: transparent;
+    padding: 0%;
+}
+
+/*aside*/
+aside{
+    background-color: #88003f;
+    width: 40%;
+    height: 800px;
+    display: block;
+    float: left;
+}
